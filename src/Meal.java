@@ -1,0 +1,3 @@
+enum Meal {
+A,M;
+}
